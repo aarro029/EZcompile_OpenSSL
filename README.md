@@ -4,5 +4,5 @@ A simple Python program that utliizes subprocess and os.system commands in order
 
 Steps:
 1. Change directory into EZcompile_OpenSSL
-2. wget a suitable version of OpenSSL into
+2. wget a suitable version of OpenSSL
 3. Run python3 EZcompile_Openssl.py
