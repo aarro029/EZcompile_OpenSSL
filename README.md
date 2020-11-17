@@ -1,4 +1,7 @@
 # EZcompile_OpenSSL
+STILL UNDER PROTOTYPE BETA ALPHA TESTING
+
+
 A simple Python program that utliizes subprocess and os.system commands in order to automate the compilation of OpenSSL.
 
 Preliminary requirements: gcc, make, 
