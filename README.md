@@ -1,5 +1,6 @@
 # EZcompile_OpenSSL
-STILL UNDER PROTOTYPE BETA ALPHA TESTING
+------------STILL UNDER PROTOTYPE BETA ALPHA TESTING----------------
+          ------------NOT A FINISHED REPO----------------
 
 
 A simple Python program that utliizes subprocess and os.system commands in order to automate the compilation of OpenSSL.
