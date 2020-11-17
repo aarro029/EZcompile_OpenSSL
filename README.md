@@ -1,5 +1,5 @@
 # EZcompile_OpenSSL
-------------STILL UNDER PROTOTYPE BETA ALPHA TESTING----------------
+------------STILL UNDER BETA TESTING----------------
 
        ------------NOT A FINISHED REPO----------------
 
