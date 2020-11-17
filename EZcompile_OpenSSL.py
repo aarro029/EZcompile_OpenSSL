@@ -15,7 +15,7 @@ for file in os.listdir('.'):
 #Time.sleep intervals along with new lines are inserted throughout this script for the sake of aesthetics
 print('Extraction of OpenSSL Tarball has now commenced')
 time.sleep(5)
-subprocess.call(["tar", "-xvf", OpenSSL_Tarball_Path, "--strip-components=1", "-C", "/./OpenSSL"])
+subprocess.call(["tar", "-xvf", OpenSSL_Tarball_Path, "--strip-components=1", "-C", "OpenSSL"])
 print('\n')
 print('OpenSSL has been successfully extracted')
 time.sleep(3)
