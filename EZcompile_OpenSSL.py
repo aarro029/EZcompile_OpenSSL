@@ -54,6 +54,13 @@ print('\nNow Installing OpenSSL, Please Wait')
 time.sleep(3)
 os.system('make install')
 
+#Updates lib conf files
+print('\n')
+print('\n')
+print('Updating and binding lib conf files, please wait...')
+subprocess.call(["ldconfig", "/usr/lib", "/etc/ld.so.conf.d/libc.conf"])
+print('Binding completed')
+
 #Final successfull compilation message
 print('\n')
 print('\n')
