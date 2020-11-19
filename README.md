@@ -11,5 +11,5 @@ In order to resuse script without the need to reclone,
 run: rm -r OpenSSL/*
 Then repeat the steps listed above.
 
-Some issues have been found in regards to updating libs in Ubuntu distro, I am still looking into that one.
+Some issues have been found in regards to updating libs in an Ubuntu distro, I am still looking into that one.
 
