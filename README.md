@@ -4,8 +4,9 @@ A simple Python program that utliizes subprocess and os.system commands in order
 Preliminary requirements: gcc, make, python3 
 
 Steps:
-1. wget a suitable version of OpenSSL into /EZcompile_OpenSSL
-2. Run python3 EZcompile_Openssl.py
+1. cd into /EZcompile_OpenSSL
+2. wget a suitable version of OpenSSL in /EZcompile_OpenSSL
+3. Run python3 EZcompile_Openssl.py
 
 In order to resuse script without the need to reclone, 
 run: rm -r OpenSSL/*
