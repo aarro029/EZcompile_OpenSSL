@@ -1,10 +1,10 @@
 # EZcompile_OpenSSL
 A simple Python program that utliizes subprocess and os.system commands in order to automate the compilation of OpenSSL.
 
-Preliminary requirements: gcc, make 
+Preliminary requirements: gcc, make, python3 
 
 Steps:
-1. wget a suitable version of OpenSSL
+1. wget a suitable version of OpenSSL into /EZcompile_OpenSSL
 2. Run python3 EZcompile_Openssl.py
 
 In order to resuse script without the need to reclone, 
